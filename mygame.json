@@ -1,22 +1,25 @@
 {
+  "favorite":[
+    "https://avatars.mds.yandex.net/get-games/11374519/2a0000018b9b8e2f1ab44930b0e79a44d752/pjpg128x128",
+    "Много слов",
+    "app/267918"
+  ],
   "urls_ico": [
-    "url://",
-    "url://",
-    "url://",
-    "url://",
-    "url://",
-    "url://",
-    "url://",
-    "url://"
+    "https://avatars.mds.yandex.net/get-games/3006389/2a00000189bd3abbb01e8cc164cddcd90a84/pjpg128x128",
+    "https://avatars.mds.yandex.net/get-games/1881957/2a0000018b3972cc0e9116f04b91775279da/pjpg128x128",
+    "https://avatars.mds.yandex.net/get-games/6238841/2a0000018b053b2a6075870bab22d283f754/pjpg128x128",
+    "https://avatars.mds.yandex.net/get-games/1881957/2a0000018b4e2a1e64fefd7bdd2401d38401/pjpg128x128",
+    "https://avatars.mds.yandex.net/get-games/6238841/2a0000018b1e301afca45b423291ae6a084f/pjpg128x128",
+    "https://avatars.mds.yandex.net/get-games/1881364/2a0000018b24f23d9bfdea7a022f0ec134f1/pjpg128x128",
+    "https://avatars.mds.yandex.net/get-games/1881957/2a0000018b52c585ea6b4eb0f9c964027f75/pjpg128x128"
   ],
   "name_game": [
-    "names_game",
-    "names_game",
-    "names_game",
-    "names_game",
-    "names_game",
-    "names_game",
-    "names_game",
-    "names_game"
+    "Отгадай Дораму",
+    "Отгадай Машину",
+    "Отгадай Флаг Страны",
+    "Отгадай Это Животное",
+    "Отгадай Фильм",
+    "Отгадай Логотип",
+    "Отгадай Персонажа"
   ]
 }

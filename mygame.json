@@ -11,7 +11,8 @@
     "https://avatars.mds.yandex.net/get-games/1881957/2a0000018b4e2a1e64fefd7bdd2401d38401/pjpg128x128",
     "https://avatars.mds.yandex.net/get-games/6238841/2a0000018b1e301afca45b423291ae6a084f/pjpg128x128",
     "https://avatars.mds.yandex.net/get-games/1881364/2a0000018b24f23d9bfdea7a022f0ec134f1/pjpg128x128",
-    "https://avatars.mds.yandex.net/get-games/1881957/2a0000018b52c585ea6b4eb0f9c964027f75/pjpg128x128"
+    "https://avatars.mds.yandex.net/get-games/1881957/2a0000018b52c585ea6b4eb0f9c964027f75/pjpg128x128",
+    "https://avatars.mds.yandex.net/get-games/10152950/2a0000018bd809ea56235ad00dcffc6f94e2/pjpg128x128"
   ],
   "name_game": [
     "Отгадай Дораму",
@@ -20,7 +21,8 @@
     "Отгадай Это Животное",
     "Отгадай Фильм",
     "Отгадай Логотип",
-    "Отгадай Персонажа"
+    "Отгадай Персонажа",
+    "Отгадай, что это?"
   ],
   "url_game": [
     "app/246931",
@@ -29,6 +31,7 @@
     "app/265176",
     "app/262525",
     "app/263236",
-    "app/265362"
+    "app/265362",
+    "app/271436"
   ]
 }
